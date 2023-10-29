@@ -2,6 +2,7 @@
 C++ friendly version of scipy.optimize.linear_sum_assignment
 
 Credits to the scipy project, i only applied modifications to make it C++ friendly.
+Author of the C++ edits: Shibodd
 */
 
 /*
